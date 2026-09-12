@@ -8,7 +8,7 @@ public class Methods {
             }
         }
 
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         System.out.println(maior(10, 20));
         System.out.println(maior(15, 25));
         System.out.println(maior(5, 10));
